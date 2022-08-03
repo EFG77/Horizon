@@ -1,0 +1,21 @@
+.hnav{margin-top: 10px;}
+
+
+.services{display: flex;
+	      width:75% ;
+}
+
+.Locations{background-color:blue;
+	       width: 85%;
+	       height: 220px;
+	       margin-bottom: 30px;
+
+
+}
+
+
+.visit{color: orange;}
+
+.country{color: green;}
+
+.street{color: white;}
